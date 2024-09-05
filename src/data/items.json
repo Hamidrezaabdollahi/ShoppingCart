@@ -3,26 +3,26 @@
         "id": 1,
         "name": "Book",
         "price": 10.99,
-        "imgUrl": "/imgs/book.avif"
+        "imgUrl": "https://images.inc.com/uploaded_files/image/1920x1080/getty_655998316_2000149920009280219_363765.jpg"
     },
     
     {
         "id": 2,
         "name": "Computer",
         "price": 1199,
-        "imgUrl": "/imgs/computer.jpg"
+        "imgUrl": "https://m.media-amazon.com/images/I/41RbCADklWL.jpg"
     },
     {
         "id": 3,
         "name": "Banana",
         "price": 1.05,
-        "imgUrl": "/imgs/banana.avif"
+        "imgUrl": "https://images.everydayhealth.com/images/diet-nutrition/how-many-calories-are-in-a-banana-1440x810.jpg?sfvrsn=be4504bc_4"
     },
     {
         "id": 4,
         "name": "Car",
         "price": 14000,
-        "imgUrl": "/imgs/car.jpg"
+        "imgUrl": "https://storage.googleapis.com/pod_public/1300/168364.jpg"
     }
 
 ]
